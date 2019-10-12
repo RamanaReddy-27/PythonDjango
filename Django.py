@@ -8,3 +8,4 @@ myCursor.execute("show databases")
 
 for i in myCursor:
  print(i)
+print("hello world")
